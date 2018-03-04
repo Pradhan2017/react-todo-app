@@ -1,5 +1,5 @@
 # react-playlist
-It is simple react todo app
+It is simple react todo app(with Webpack)
 
 # How to run this project
 
